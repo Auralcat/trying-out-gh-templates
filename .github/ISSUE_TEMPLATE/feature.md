@@ -1,7 +1,12 @@
 ---
-name: ✨ New feature issue template
-about: Want something new in the project? Use this template. 🎉
+name: "✨ New feature issue template"
+about: "Want something new in the project? Use this template. \U0001F389"
+title: ''
+labels: enhancement
+assignees: ''
+
 ---
+
 # What
 Description of the feature you'd like to see in the project.
 

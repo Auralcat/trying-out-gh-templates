@@ -1,7 +1,12 @@
 ---
-name: 🐛 Bug report template
+name: "\U0001F41B Bug report template"
 about: Please use this template when submitting a bug report
+title: "[BUG]"
+labels: bug
+assignees: ''
+
 ---
+
 # What
 Description of the bug
 
