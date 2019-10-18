@@ -6,3 +6,5 @@ Por que você abriu este pull request.
 
 # Amostra
 Você pode anexar imagens nesta descrição pra nos mostrar o resultado, se for possível.
+
+Ignore esta linha.
